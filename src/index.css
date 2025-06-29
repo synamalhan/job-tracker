@@ -6,3 +6,6 @@ body {
   @apply bg-background text-text;
   font-family: 'Inter', sans-serif;
 }
+.input {
+  @apply p-2 bg-[#2A2A3B] rounded border border-[#444] text-white;
+}
